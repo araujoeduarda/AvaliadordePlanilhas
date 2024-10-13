@@ -21,8 +21,3 @@ Este projeto é um script em Python que permite a leitura, análise e visualiza�
   - `pandas`
   - `matplotlib`
   - `openpyxl` (para leitura e escrita de arquivos Excel)
-
-Você pode instalar as dependências executando o seguinte comando:
-
-```bash
-pip install pandas matplotlib openpyxl
